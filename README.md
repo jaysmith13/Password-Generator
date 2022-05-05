@@ -8,7 +8,7 @@
 
 ## Purpose
 
-*The purpose of this project is to create a random password.
+* The purpose of this project is to create a random password.
 
 Deployed Application:
 
