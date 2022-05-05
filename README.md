@@ -1,6 +1,6 @@
 # Password-Generator
 
-##Technologies Used
+## Technologies Used
 
 * CSS
 * JavaScript
