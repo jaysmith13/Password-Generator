@@ -1,7 +1,18 @@
 # Password-Generator
 
-This project is built with CSS, JavaScript and HTML
+##Technologies Used
 
-The purpose of this project is to create a random password.
+* CSS
+* JavaScript
+* HTML
 
-site url https://jaysmith13.github.io/Password-Generator/
+## Purpose
+
+*The purpose of this project is to create a random password.
+
+Deployed Application:
+
+https://jaysmith13.github.io/Password-Generator/
+
+Screenshot:
+
