@@ -9,6 +9,7 @@
 ## Purpose
 
 * The purpose of this project is to create a random password.
+* Generated passwords consist of Numbers, Upper and lower case letters as well as special characters.
 
 ## Deployed Application:
 
