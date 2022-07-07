@@ -11,10 +11,6 @@
 * The purpose of this project is to create a random password.
 * Generated passwords consist of Numbers, Upper and lower case letters as well as special characters.
 
-## Credits
-
-I used a tutorial by web dev simplied for passwords generators as well as the source code provided by the bootcamp.
-
 ## Deployed Application:
 
 https://jaysmith13.github.io/Password-Generator/

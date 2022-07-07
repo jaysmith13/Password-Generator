@@ -31,8 +31,8 @@ function generatePassword(){
     return PasswordLengthOption();
   }
   else{
-    console.log(passwordLength)
-    return passwordLength;
+    console.log(PasswordLength)
+    return PasswordLength;
      }
   }
   //LowercaseCharcodes
