@@ -24,7 +24,7 @@ function generatePassword(){
   function PasswordLengthOption(){
     const PasswordLength = prompt('Enter password length (Mininmum characters 8 maxium characters 128');
     if (PasswordLength <= 7){
-      window.alert('Try again, the number was '+passwordLength +', please enter a number between 8 and 128')
+      window.alert('Try again, the number was '+PasswordLength +', please enter a number between 8 and 128')
       return PasswordLengthOption();
     }if (PasswordLength >=129){
       window.alert('Try again, the number was '+passwordLength +',please enter a number between 8 and 128');
